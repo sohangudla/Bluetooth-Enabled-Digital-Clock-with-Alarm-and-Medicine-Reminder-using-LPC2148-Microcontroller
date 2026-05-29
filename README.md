@@ -1,5 +1,5 @@
 # Bluetooth-Enabled-Digital-Clock-with-Alarm-and-Medicine-Reminder-using-LPC2148-Microcontroller
-# Bluetooth-Enabled Digital Clock with Alarm and Medicine Reminder using LPC2138
+
 
 ## Overview
 
